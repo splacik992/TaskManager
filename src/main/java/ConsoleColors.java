@@ -1,6 +1,3 @@
-package console;
-
-
 /**
  * https://stackoverflow.com/a/45444716
  */
